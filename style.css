@@ -10,3 +10,9 @@ body {
   background: #f2f2f2;
   line-height: 1.5;
 }
+
+.container {
+  width: 900px;
+  max-width: 92%;
+  margin: 0 auto;
+}
