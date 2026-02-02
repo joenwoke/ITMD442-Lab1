@@ -64,3 +64,7 @@ body {
   color: #fff;
   border: 1px solid #2f3338;
 }
+
+.btn-solid:hover {
+  background: #1f2327;
+}
