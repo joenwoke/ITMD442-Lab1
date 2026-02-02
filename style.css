@@ -94,3 +94,8 @@ body {
 .hero-left {
   width: 50%;
 }
+
+.hero-left h1 {
+  font-size: 34px;
+  margin-bottom: 10px;
+}
