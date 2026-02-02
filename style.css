@@ -111,3 +111,14 @@ body {
   align-items: center;
   justify-content: center;
 }
+
+/* little shapes inside */
+.sun {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background: #efefef;
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
