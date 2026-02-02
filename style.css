@@ -49,3 +49,18 @@ body {
 .nav-links a:hover {
   color: #ffffff;
 }
+
+/* Buttons */
+.btn {
+  text-decoration: none;
+  font-size: 13px;
+  padding: 10px 14px;
+  border-radius: 3px;
+  display: inline-block;
+}
+
+.btn-solid {
+  background: #2f3338;
+  color: #fff;
+  border: 1px solid #2f3338;
+}
