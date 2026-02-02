@@ -134,3 +134,13 @@ body {
 
 .cloud-1 { right: 35px; }
 .cloud-2 { right: 80px; top: 45px; width: 40px; }
+
+.mountain {
+  position: absolute;
+  bottom: -20px;
+  width: 200px;
+  height: 120px;
+  background: #e9e9e9;
+  transform: rotate(12deg);
+  border-radius: 6px;
+}
